@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roselange-soares/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/roselange_soares/)
 [![Gmail](https://img.shields.io/badge/Gmail-4682B4?style=flat&logo=gmail&logoColor=white)](mailto:roselange_boll@hotmail.com)
-[![Perfil DIO](https://img.shields.io/badge/-%20DIO-000?style=flat)](https://web.dio.me/users/roselange_boll?tab=skills)
+[![Perfil DIO](https://img.shields.io/badge/-%20DIO-000?style=flat)]([https://web.dio.me/users/roselange_boll?tab=skills](https://www.dio.me/users/roselange_boll))
 
 #### 🛠 Habilidades
 ![HTML5](https://img.shields.io/badge/HTML5-%23323330?style=flat&logo=html5&logoColor=white)
